@@ -21,7 +21,7 @@ Para utilizar o notebook **`Colaboratory Workshop.ipynb`** no Google Colaborator
 4. Faça o upload do arquivo **`Colaboratory Workshop.ipynb`**.
 5. Agora você pode rodar o notebook diretamente no Colaboratory e seguir os passos demonstrados no workshop.
 
-Para sua conveniência, você também pode acessar o notebook diretamente pelo seguinte [link](https://drive.google.com/file/d/1u1wFoBJMRx1LK8dA2DEfmWrS6h_HXM9X/view?usp=sharing).
+Para sua conveniência, você também pode acessar o notebook diretamente pelo seguinte [link](https://colab.research.google.com/drive/1Q7MT4dz4UWbjgqQRNncQBHe1FpHfNQEf?usp=sharing).
 
 ## Requisitos
 
